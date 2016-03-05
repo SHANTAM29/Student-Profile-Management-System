@@ -1,0 +1,6 @@
+The Admin.txt file contains the Database Admin Login Id And Password. 
+The Student.txt file contains the Login Id And Password Of Each Student Student.
+The Student Info.txt file contains the Personal Student Info With Their Department Name And all.
+The Department.txt file contains the name of the department and its login id and password.
+You Only Need To Open the First.html File and then type the login id and password of the specific person.
+Then As an Database Admin you have the Following options you can add new student or new department  or change the Admin's Id and password.
